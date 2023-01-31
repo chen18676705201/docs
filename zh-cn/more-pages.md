@@ -1,5 +1,7 @@
 # 多页文档
 
+![顶_1](/Users/chenliang/Desktop/docsify/docs/images/顶_1.png)
+
 如果需要创建多个页面，或者需要多级路由的网站，在 docsify 里也能很容易的实现。例如创建一个 `guide.md` 文件，那么对应的路由就是 `/#/guide`。
 
 假设你的目录结构如下：
